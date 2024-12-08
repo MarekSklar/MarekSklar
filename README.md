@@ -1,5 +1,5 @@
 ## Hi, I'm Mark!
-* Average typescript, javascript and C# enjoyer
+* Average Nuxt, typescript & Tailwindcss enjoyer
 * Full stack developer
 * Game developer
 
